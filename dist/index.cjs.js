@@ -2285,11 +2285,6 @@ var socials = [
         icon: "TwitterIcon",
         href: "https://twitter.com/goosedefi",
     },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
-    },
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
